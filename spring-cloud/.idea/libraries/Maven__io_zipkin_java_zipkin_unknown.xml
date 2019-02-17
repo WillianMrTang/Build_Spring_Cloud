@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.zipkin.java:zipkin:unknown">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/io/zipkin/java/zipkin/unknown/zipkin-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/io/zipkin/java/zipkin/unknown/zipkin-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/io/zipkin/java/zipkin/unknown/zipkin-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
